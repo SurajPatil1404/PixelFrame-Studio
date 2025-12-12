@@ -14,8 +14,7 @@
 
 *Academic Project | Collaborative Development | Web Development Course*
 
-[Live Demo](http://127.0.0.1:53693/) • [Report Issue](https://github.com/prithviraj-1657/PixelFrame-Studio/issues) • [Project Board](https://github.com/prithviraj-1657/PixelFrame-Studio/projects)
-
+[Live Demo](https://surajpatil1404.github.io/PixelFrame-Studio/) • [Website](https://surajpatil1404.github.io/PixelFrame-Studio/) • [Report Issue](https://github.com/SurajPatil1404) • [Project Board](https://github.com/SurajPatil1404/PixelFrame-Studio/projects)
 </div>
 
 ---
